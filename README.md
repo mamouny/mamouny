@@ -1,5 +1,5 @@
 <h2>👨‍💻 Welcome to My Developer Playground! 🚀✨</h2>
-<hr>
+
 ### 🔭 I’m currently working on...
 - Implementing the "Mechroui-Moustaghbeli" program for the finalization of pre-selection and selection at the MINISTRY OF EMPLOYMENT AND VOCATIONAL TRAINING.
 - Development of a new package "Opportunity".
