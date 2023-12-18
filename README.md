@@ -1,40 +1,43 @@
-# Hi there! 👋 I'm Mamouny
+### Hi there 👋
 
-## About Me
-I am a passionate web and mobile developer with a strong background in various technologies. My expertise includes PHP (Laravel, CodeIgniter), Java (Struts 2, Spring Boot), databases (SQL, Oracle), HTML, CSS, JS, React Native, Flutter, C# (.Net, Asp.net), UML/Merise, and Python (Django). I possess management skills, creativity, and leadership qualities.
+I'm Mamouny, a passionate Full-stack Developer based in Nouakchott, Mauritania 🌍. 
 
-## Skills Summary
-- **Languages:** English, Arabic (basic), French
-- **Management Skills:** Project Management, Team Collaboration
-- **Web Development:** PHP (Laravel, CodeIgniter), Java (Struts 2, Spring Boot), C# (.Net, Asp.net), HTML, CSS, JS, React Native, Flutter
-- **Databases:** SQL, Oracle, NoSQL (MongoDB)
-- **Modeling:** UML/Merise
+#### 🔭 Current Work
+- 💼 Full-stack Developer at Dcs Sarl (August 2021 - Present)
 
-## Experience
-### Full-stack Developer - Dcs Sarl (08/2021 - Present)
-- Working on various projects and contributing as a full-stack developer.
-- Currently engaged in the development of an information system for a waste management company (SMTD) using PHP (Laravel).
-- Involved in the creation of packages (Statistics, Catalogs, etc.) in PHP (Laravel).
-- Other ongoing projects.
+#### 🎓 Education
+- 🎓 Professional Master's in Applied Computer Science for Management at ISCAE, Nouakchott, Mauritania (2017 - 2020)
+- 📅 Intern at Information Systems Department (July 2019 - September 2019)
 
-### Full-stack Developer Intern - Dcs Sarl (06/2021 - 07/2021)
-- Developed a web application using Laravel.
-- Created a Garage Management application using PHP, HTML, CSS, JS.
-- Contributed to other projects during the internship.
+#### 💻 Skills
+- 🚀 **Expertise & Competencies:**
+  - Management Skills 📊
+  - Creativity 💡
+  - Leadership 🚀
 
-## Education
-### Professional Master's in Applied Computer Science for Management - ISCAE, Nouakchott (2017 – 2020)
-- Specialized in Project Management.
-- Obtained a degree in Computer Development.
+- 🌐 **Technologies:**
+  - PHP (Laravel, CodeIgniter) 
+  - Java (Struts 2, Spring Boot) 
+  - Databases (SQL, Oracle) 
+  - HTML, CSS, JS 
+  - React Native & Flutter 
+  - C# (.Net, Asp.net) 
+  - UML/Merise 
+  - Python (Django)
 
-### Intern - Information Systems Department - ISCAE (07/2019 - 9/2019)
-- Developed a web application using React.js and MongoDB.
+#### 🚀 About Me
+I am a web and mobile developer with a strong proficiency in various environments and technologies, particularly PHP, Python, and JavaScript, as well as SQL and NoSQL databases. I am capable of working independently with little or no supervision, as well as being a fully integrated team member.
 
-## Contact
+#### 🌍 Languages
+- English 🇬🇧
+- Arabic (basic) 🇦🇷
+- French 🇫🇷
+
+#### 📧 Contact
 - 📧 Email: mamouny078@gmail.com
 - 📱 Phone: +222 27529355
 
-## Let's Connect
-Feel free to reach out if you're interested in collaboration or have any questions about my projects or skills!
+#### 🌟 Fun Fact
+I enjoy turning coffee into code ☕🖥️.
 
-<!-- ⚡ Fun fact: ... -->
+Feel free to connect and collaborate! 🚀✨
