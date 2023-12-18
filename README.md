@@ -35,80 +35,89 @@
 - Implemented a dynamic pricing system that adjusts based on lunar phases. (Note: I created a web application for Kalini Course using Laravel with Firebase integration.)
 
 ### Technologies I'm Proficient In:
-#### Front-end Development:
-- <i class="fab fa-react"></i> React 
+### Front-end Development:
+- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
   - Developed enchanting user interfaces using React.
   - Implemented responsive and interactive components.
 
-- <i class="fab fa-react"></i> React Query
+- ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+  - Crafted server-side rendered and statically generated web applications with Next.js.
+  - Leveraged the power of React for seamless client-side navigation.
+
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+  - Enhanced code quality and developer experience with TypeScript.
+  - Ensured robust and scalable front-end architectures.
+
+- ![React Query](https://img.shields.io/badge/-React_Query-ff4154?style=flat-square&logo=react-query&logoColor=white)
   - Utilized React Query for efficient data fetching and caching in React applications.
 
-- <i class="fab fa-react"></i> Redux
+- ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
   - Managed state in complex applications using the Redux state management library.
 
-- <i class="fab fa-react"></i> Zustand
+- ![Zustand](https://img.shields.io/badge/-Zustand-ffd700?style=flat-square)
   - Leveraged Zustand for simple and powerful state management in React applications.
 
-#### Back-end Development:
-- <i class="fab fa-laravel"></i> Laravel
+### Back-end Development:
+- ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
   - Cast powerful spells on the server-side using Laravel.
   - Built secure and efficient APIs for magical applications.
 
-- <i class="fab fa-java"></i> Spring
+- ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&logoColor=white)
   - Developed robust and scalable Java applications with the Spring Framework.
   - Implemented dependency injection, data access, and security features.
 
-- <i class="fab fa-python"></i> Django
+- ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white)
   - Crafted magical web applications using the Django framework.
   - Leveraged Django's ORM for database interactions and built RESTful APIs.
 
-#### Database:
-- <i class="fas fa-database"></i> MySQL
+### Database:
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
   - Designed and optimized relational databases with MySQL.
   - Ensured efficient data storage and retrieval for enchanted applications.
 
-- <i class="fas fa-database"></i> Firebase
+- ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
   - Integrated Firebase enchantments for real-time updates and authentication.
   - Stored and retrieved data securely using Firebase services.
 
-#### Cloud Platform:
-- <i class="fab fa-google"></i> Google Cloud Platform
+### Cloud Platform:
+- ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
   - Leveraged GCP services for scalable and reliable cloud solutions.
   - Deployed applications on Google Cloud infrastructure for maximum enchantment.
 
-#### Mobile Development:
-- <i class="fab fa-react"></i> React Native
+### Mobile Development:
+- ![React Native](https://img.shields.io/badge/-React_Native-green?style=flat-square&logo=react&logoColor=white)
   - Created captivating mobile applications with React Native.
   - Ensured a seamless experience across iOS and Android platforms.
+ 
+## Deployment Expertise:
 
-#### Deployment Expertise:
-##### Hosting Platforms:
-- <i class="fas fa-globe"></i> Infomaniak
+### Hosting Platforms:
+- ![Infomaniak](https://img.shields.io/badge/-Infomaniak-008fd5?style=flat-square)
   - Hosted magical web applications on Infomaniak for reliable and secure performance.
 
-- <i class="fab fa-vercel"></i> Vercel
+- ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
   - Deployed and showcased enchanting front-end projects with Vercel's seamless deployment.
 
-- <i class="fab fa-github"></i> GitHub Pages (Actions)
+- ![GitHub Pages (Actions)](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)
   - Automated deployment of static websites using GitHub Actions for continuous enchantment.
 
-- <i class="fab fa-heroku"></i> Heroku
+- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
   - Deployed dynamic web applications with ease on Heroku's cloud platform.
 
-##### Mobile App Deployment:
-- <i class="fab fa-google-play"></i> Google Play
+### Mobile App Deployment:
+- ![Google Play](https://img.shields.io/badge/-Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)
   - Published captivating mobile applications on the Google Play Store for widespread enchantment.
 
-#### Cloud Infrastructure:
-- <i class="fab fa-google"></i> Google Cloud Platform
+### Cloud Infrastructure:
+- ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
   - Leveraged GCP services for scalable and reliable cloud solutions, including app deployment.
 
-#### Version Control:
-- <i class="fab fa-git"></i> Git
+### Version Control:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   - Utilized Git for version control, ensuring smooth collaboration and deployment workflows.
 
-#### Containerization:
-- <i class="fab fa-docker"></i> Docker
+### Containerization:
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   - Containerized applications for consistent and scalable deployments across various environments.
 
 ### Technical Skills
