@@ -1,4 +1,4 @@
-👨‍💻 **Welcome to My Developer Playground! 🚀✨**
+👨‍💻 ***Welcome to My Developer Playground! 🚀✨***
 
 ### 🔭 I’m currently working on...
 - Implementing the "Mechroui-Moustaghbeli" program for the finalization of pre-selection and selection at the MINISTRY OF EMPLOYMENT AND VOCATIONAL TRAINING.
@@ -17,7 +17,7 @@
 - Laravel alchemy, React wizardry, or anything else you'd like to decipher in the realm of coding sorcery. I'm here to share the secrets of the enchanted keyboard.
 
 ### 📫 How to reach me: ...
-- 🧙 **LinkedIn:** [M. Mamouny Ahmed ]((https://www.linkedin.com/in/mamouny-ahmed-2568351a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/)
+- 🧙 **LinkedIn:** [M. Mamouny Ahmed (https://www.linkedin.com/in/mamouny-ahmed-2568351a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/)]
 - 📧 **Email:** mamouny078@gmail.com
 
 ### 🚀 Projects
