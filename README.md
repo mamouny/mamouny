@@ -40,14 +40,6 @@
   - Developed enchanting user interfaces using React.
   - Implemented responsive and interactive components.
 
-- ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-  - Crafted server-side rendered and statically generated web applications with Next.js.
-  - Leveraged the power of React for seamless client-side navigation.
-
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-  - Enhanced code quality and developer experience with TypeScript.
-  - Ensured robust and scalable front-end architectures.
-
 - ![React Query](https://img.shields.io/badge/-React_Query-ff4154?style=flat-square&logo=react-query&logoColor=white)
   - Utilized React Query for efficient data fetching and caching in React applications.
 
@@ -94,9 +86,6 @@
 ### Hosting Platforms:
 - ![Infomaniak](https://img.shields.io/badge/-Infomaniak-008fd5?style=flat-square)
   - Hosted magical web applications on Infomaniak for reliable and secure performance.
-
-- ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
-  - Deployed and showcased enchanting front-end projects with Vercel's seamless deployment.
 
 - ![GitHub Pages (Actions)](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)
   - Automated deployment of static websites using GitHub Actions for continuous enchantment.
